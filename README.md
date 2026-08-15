@@ -20,6 +20,7 @@ A Machine Learning project based on the **Ames Housing Dataset**, focused on pre
 * Categorical Variable Encoding
 * Feature Selection
 * Machine Learning Model Training
+* Model prediction
 * Model Evaluation
 
 The goal of this project is to build an accurate regression model that can predict house prices based on the available property features.
