@@ -25,4 +25,6 @@ A Machine Learning project based on the **Ames Housing Dataset**, focused on pre
 
 The goal of this project is to build an accurate regression model that can predict house prices based on the available property features.
 
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+**Tech Stack:** 
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
