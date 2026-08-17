@@ -8,6 +8,35 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 # Workflow
 
+### 🏠 House Price Prediction Workflow
+
+**Dataset**
+⬇️
+**Data Cleaning**
+⬇️
+**EDA (Exploratory Data Analysis)**
+⬇️
+**Feature Engineering**
+⬇️
+**Handle Missing Values**
+⬇️
+**Categorical Encoding**
+⬇️
+**Feature & Target Split**
+⬇️
+**Train-Test Split**
+⬇️
+**Feature Scaling**
+        ⬇️
+**Model Training**
+        ⬇️
+**Prediction**
+        ⬇️
+**Model Evaluation (MAE, RMSE, R²)**
+        ⬇️
+**Final House Price Prediction**
+
+
 # Ames House Price Prediction
 
 A Machine Learning project based on the **Ames Housing Dataset**, focused on predicting house sale prices using various features such as property size, quality, location, number of rooms, and other housing characteristics.
