@@ -15,27 +15,48 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
       ⬇️
       
 **Data Cleaning**
+
       ⬇️
+      
 **EDA (Exploratory Data Analysis)**
+
       ⬇️
+      
 **Feature Engineering**
+
       ⬇️
+      
 **Handle Missing Values**
+
       ⬇️
+      
 **Categorical Encoding**
+
       ⬇️
+      
 **Feature & Target Split**
+
       ⬇️
+      
 **Train-Test Split**
+
       ⬇️
 **Feature Scaling**
       ⬇️
+      
 **Model Training**
+
       ⬇️
+      
 **Prediction**
+
+
       ⬇️
+      
 **Model Evaluation (MAE, RMSE, R²)**
+
       ⬇️
+      
 **Final House Price Prediction**
 
 
